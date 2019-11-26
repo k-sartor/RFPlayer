@@ -1,2 +1,2 @@
-This file is wrtitten to be able to read frames decrypted by RFPlayer
-Currently it is not able to write command to RFPLayer
+This file is written to be able to read frames decrypted by RFPlayer
+Currently it is not able to write command to RFPLayer in the same time that it decodes the frames
